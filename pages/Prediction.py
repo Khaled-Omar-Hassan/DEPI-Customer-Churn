@@ -1,7 +1,8 @@
+import sys
 sys.path.append('../')
 import streamlit as st
 import Model
-import sys
+
 
 
 st.title('Customer Churn Prediction')
