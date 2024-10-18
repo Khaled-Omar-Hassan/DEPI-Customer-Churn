@@ -1,7 +1,8 @@
+sys.path.append('../')
 import streamlit as st
 import Model
 import sys
-sys.path.append('../')
+
 
 st.title('Customer Churn Prediction')
 st.write('Enter the details to predict')
